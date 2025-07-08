@@ -1,5 +1,6 @@
 {
   "name": "vue-gh-pages-test",
+  "homepage": "https://olehkozubjs.github.io/vue-gh-pages-test/",
   "version": "0.0.0",
   "private": true,
   "type": "module",
