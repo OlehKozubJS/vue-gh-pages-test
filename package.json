@@ -5,10 +5,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "vite build",
+    "dev": "vite",
     "preview": "vite preview",
     "lint": "eslint . --fix",
     "format": "prettier --write src/"
